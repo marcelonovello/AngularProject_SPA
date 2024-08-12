@@ -73,10 +73,6 @@ As principais dependências do backend incluem:
 
 Após iniciar tanto o frontend quanto o backend, você pode interagir com a aplicação Angular para realizar operações CRUD, que serão manipuladas pelo servidor `json-server`.
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Autor
 
 Desenvolvido por Marcelo Novello.
