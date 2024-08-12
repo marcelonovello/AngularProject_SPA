@@ -57,14 +57,14 @@ Este é um projeto Angular que implementa um CRUD básico com um backend simples
 
 ## Dependências
 
-### Frontend
+### Frontend:
 
 As principais dependências do frontend incluem:
 - `@angular/core`: Framework principal para a construção de aplicações Angular.
 - `@angular/material`: Conjunto de componentes UI da Google baseado no Material Design.
 - `rxjs`: Biblioteca para programação reativa usando observables.
 
-### Backend
+### Backend:
 
 As principais dependências do backend incluem:
 - `json-server`: Simula uma API RESTful com base em um arquivo JSON.
