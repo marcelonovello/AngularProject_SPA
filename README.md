@@ -77,10 +77,6 @@ Após iniciar tanto o frontend quanto o backend, você pode interagir com a apli
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Autor
 
 Desenvolvido por Marcelo Novello.
