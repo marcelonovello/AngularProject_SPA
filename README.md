@@ -83,6 +83,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Autor
 
-Desenvolvido por [Marcelo Novello].
+Desenvolvido por Marcelo Novello.
 
 
